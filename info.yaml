@@ -16,6 +16,7 @@ project:
 documentation: 
   author:       "Matt Venn"
   title:        "M segments"
+  discord:      ""
   description:  "Setting the correct input will show a 3 on the display"
   how_it_works: "AND gates connect to the 7 segment display"
   how_to_test:  "Turning on the first 4 inputs will show a 3 on the display"
